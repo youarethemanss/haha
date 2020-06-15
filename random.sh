@@ -6,6 +6,8 @@
 # universite@ukr.net
 # 2011
 
+echo "İpv6 girin"read ipv6
+echo "kaç adet proxy istiyorsunuz"read adet
 
 array=( 1 2 3 4 5 6 7 8 9 0 a b c d e f )
 MAXCOUNT=$adet #количество прокси
